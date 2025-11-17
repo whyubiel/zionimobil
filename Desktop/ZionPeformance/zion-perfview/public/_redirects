@@ -1,3 +1,6 @@
-/calculadora    /calculadora/index.html   200
-/calculadora/*    /calculadora/:splat    200
+/calculadora/index.html    /calculadora/index.html   200
+/calculadora/js/*    /calculadora/js/:splat    200
+/calculadora/css/*    /calculadora/css/:splat    200
+/calculadora/images/*    /calculadora/images/:splat    200
+/calculadora    /index.html   200
 /*    /index.html   200
